@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Joseph Olugbohunmi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">I am a skillful Android Engineer and Agriculturist with passion for promoting ICT adoption in the processes and operations of various industries; a creative thinker, keen on creating great mobile solutions to improve users\' experience (businesses and customers alike).
+\n \n Generally, I am interested in the way programming can be used to create sustainable solutions for various industries. I have taken trainings on Java and Android development and have developed some applications. I have worked as an ICT Consultant at Options Book and Information Services where I learnt, acquired and exchanged knowledge as regards Information and Communication Technology. I developed and equipped other members of staff with skills and processes which improved their level of performance and efficiency in their official day-to-day activities. I also worked as an Inventory/Database Administrator at First Synergi Homes Ltd. I have been involved in various capacity building activities while harnessing my communication, leadership, interpersonal and organizational skills.
+\n \n I built the Inventory Monitoring Programme which is being used for the operations at Options Book and Information Services Ltd as well as First Synergi Homes Ltd. I have also practiced with a number of mobile applications which I hosted on GitHub.
+</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
